@@ -1,0 +1,300 @@
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\ApplicationInsights.config
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.dll.config
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.pdb
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.exe
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.exe.config
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.rsp
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csi.exe
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csi.rsp
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.exe
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.exe.config
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.rsp
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Antlr3.Runtime.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Newtonsoft.Json.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Helpers.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Mvc.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Optimization.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Razor.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\WebGrease.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Helpers.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Mvc.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Optimization.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Razor.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Newtonsoft.Json.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.dll
+C:\Users\Gustavo\source\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.pdb
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\ApplicationInsights.config
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.dll.config
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.pdb
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.exe
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.exe.config
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.rsp
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csi.exe
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csi.rsp
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.AppContext.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.exe
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.exe.config
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.rsp
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\VBCSCompiler.exe
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Antlr3.Runtime.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.SqlServer.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Web.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.WindowsServer.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.ApplicationInsights.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Newtonsoft.Json.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Helpers.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Mvc.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Optimization.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Razor.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Razor.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\WebGrease.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.SqlServer.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Helpers.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Mvc.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Optimization.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Razor.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Razor.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Newtonsoft.Json.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Antlr3.Runtime.pdb
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.WindowsServer.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Web.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csprojAssemblyReference.cache
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CoreCompileInputs.cache
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CopyComplete
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.dll
+D:\Pendrive 64GB\repos\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.pdb
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\ApplicationInsights.config
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.dll.config
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.pdb
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.exe
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.exe.config
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.rsp
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csi.exe
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csi.rsp
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.exe
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.exe.config
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.rsp
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Antlr3.Runtime.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Newtonsoft.Json.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Helpers.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Mvc.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Optimization.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Razor.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\WebGrease.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Helpers.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Mvc.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Optimization.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Razor.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Newtonsoft.Json.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csprojAssemblyReference.cache
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CoreCompileInputs.cache
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CopyComplete
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.dll
+C:\Users\Rato\Desktop\AplicacaoDeEstudoASPNETMVC\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.pdb
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\ApplicationInsights.config
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.dll.config
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\AplicacaoDeEstudoASPNETMVC.pdb
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.exe
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.exe.config
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csc.rsp
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csi.exe
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\csi.rsp
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.exe
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.exe.config
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\vbc.rsp
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Antlr3.Runtime.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Newtonsoft.Json.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Helpers.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Mvc.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Optimization.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Razor.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\WebGrease.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Helpers.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Mvc.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Optimization.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.Razor.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Newtonsoft.Json.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csprojAssemblyReference.cache
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CopyComplete
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.dll
+C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria-master\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.pdb

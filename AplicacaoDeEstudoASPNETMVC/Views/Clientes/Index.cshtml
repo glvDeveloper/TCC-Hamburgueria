@@ -1,0 +1,69 @@
+﻿@model IEnumerable<AplicacaoDeEstudoASPNETMVC.Models.Cliente>
+
+<div class="container body-content">
+    <h2>Clientes</h2>
+    @using (Html.BeginForm("index", "Clientes", FormMethod.Get, new { @class = "form-inline space" }))
+    {
+        <input type="text" placeholder="Buscar um Cliente" name="busca" class="form-control" />
+        <input type="submit" class="btn" value="Buscar" />
+        <a class="edits btn-add" href="@Url.Action("Create", "Clientes")">
+            <img class="" src="~/img/add.png" alt="Adicionar">
+        </a>
+    }
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Endereco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CPF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nascimento)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Endereco)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CPF)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nascimento)
+                </td>
+                <td>
+                    <a class="edits" href="@Url.Action("Edit", "Clientes", new { id = item.IdCliente })" |>
+                        <img class="" src="~/img/file.png" alt="editar">
+                    </a>
+                    <a class="edits" href="@Url.Action("Details", "Clientes", new { id = item.IdCliente })" |>
+                        <img class="" src="~/img/view.png" alt="vizualizar ">
+                    </a>
+                    <a class="edits" href="@Url.Action("Delete", "Clientes", new { id = item.IdCliente })">
+                        <img class="" src="~/img/trash.png" alt="excluir">
+                    </a>
+                </td>
+            </tr>
+        }
+
+    </table>
+    <hr/>
+</div>
