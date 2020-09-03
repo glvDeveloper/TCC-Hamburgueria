@@ -3,12 +3,14 @@
     ViewBag.Title = "Adicionar Aluno";
 }
 <div class="container body-content">
-    <div class="row">
-        <h2>Cadastro</h2>
+    <h2>Criação</h2>
+
+    @using (Html.BeginForm())
+    {
         @Html.AntiForgeryToken()
 
         <div class="form-horizontal">
-            <h4>Cliente</h4>
+            <h4>Aluno</h4>
             <hr />
             @*@Html.ValidationSummary(false, "", new { @class = "text-danger" })   @*Serve para mostrar o alerta de campo obrigatorio acima de todo o formulário*@
             <div class="form-group">
@@ -53,12 +55,10 @@
                 </div>
             </div>
         </div>
-        
-
-        @section Scripts {
-            @Scripts.Render("~/bundles/jqueryval")
-        }
-    </div>
+    }
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
 </div>
 
 
