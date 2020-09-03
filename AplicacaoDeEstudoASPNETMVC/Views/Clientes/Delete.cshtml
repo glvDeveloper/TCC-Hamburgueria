@@ -4,71 +4,69 @@
     ViewBag.Title = "Excluir";
 }
 <div class="container body-content">
-    <div class="row">
-        <h2>Excluir um registro</h2>
+    <h2>Excluir um registro</h2>
 
-        <h3>Você deseja realmente excluir esse registro?</h3>
-        <div>
-            <h4 class="fonts space">Cliente</h4>
-            <hr />
-            <dl class="dl-horizontal fonts">
-                <dt>
-                    @Html.DisplayNameFor(model => model.Nome)
-                </dt>
+    <h3>Você deseja realmente excluir esse registro?</h3>
+    <div>
+        <h4 class="fonts space">Cliente</h4>
+        <hr />
+        <dl class="dl-horizontal fonts">
+            <dt>
+                @Html.DisplayNameFor(model => model.Nome)
+            </dt>
 
-                <dd>
-                    @Html.DisplayFor(model => model.Nome)
-                </dd>
+            <dd>
+                @Html.DisplayFor(model => model.Nome)
+            </dd>
 
-                <dt>
-                    @Html.DisplayNameFor(model => model.Endereco)
-                </dt>
+            <dt>
+                @Html.DisplayNameFor(model => model.Endereco)
+            </dt>
 
-                <dd>
-                    @Html.DisplayFor(model => model.Endereco)
-                </dd>
+            <dd>
+                @Html.DisplayFor(model => model.Endereco)
+            </dd>
 
-                <dt>
-                    @Html.DisplayNameFor(model => model.Telefone)
-                </dt>
+            <dt>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </dt>
 
-                <dd>
-                    @Html.DisplayFor(model => model.Telefone)
-                </dd>
+            <dd>
+                @Html.DisplayFor(model => model.Telefone)
+            </dd>
 
-                <dt>
-                    @Html.DisplayNameFor(model => model.CPF)
-                </dt>
+            <dt>
+                @Html.DisplayNameFor(model => model.CPF)
+            </dt>
 
-                <dd>
-                    @Html.DisplayFor(model => model.CPF)
-                </dd>
+            <dd>
+                @Html.DisplayFor(model => model.CPF)
+            </dd>
 
-                <dt>
-                    @Html.DisplayNameFor(model => model.Nascimento)
-                </dt>
+            <dt>
+                @Html.DisplayNameFor(model => model.Nascimento)
+            </dt>
 
-                <dd>
-                    @Html.DisplayFor(model => model.Nascimento)
-                </dd>
-
+            <dd>
+                @Html.DisplayFor(model => model.Nascimento)
+            </dd>
 
 
-            </dl>
 
-            @using (Html.BeginForm())
-            {
-                @Html.AntiForgeryToken()
+        </dl>
 
-                <div class="form-group">
-                    <div class="btn-space">
-                        <input type="submit" value="Excluir" class="btn btn-default" />
-                        <div>
-                            <a class="btn btn-add" href="/alunos">Voltar a página inicial</a>
-                        </div>
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-group">
+                <div class="btn-space">
+                    <input type="submit" value="Excluir" class="btn btn-default" />
+                    <div>
+                        <a class="btn btn-add" href="/Clientes">Voltar a página inicial</a>
                     </div>
                 </div>
-            }
-        </div>
+            </div>
+        }
     </div>
-</div>
+ </div>
