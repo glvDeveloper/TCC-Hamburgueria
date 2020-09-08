@@ -2,6 +2,7 @@
 @{
     ViewBag.Title = "Adicionar Aluno";
 }
+
 <div class="container body-content">
     <div class="row">
         <h2>Criação</h2>
@@ -28,6 +29,7 @@
                         @Html.ValidationMessageFor(model => model.Endereco, "", new { @class = "text-danger" })
                     </div>
                 </div>
+<<<<<<< HEAD
                 <div class="form-group">
                     @Html.LabelFor(model => model.Telefone, htmlAttributes: new { @class = "control-label col-md-2" })
                     <div class="col-md-10">
@@ -48,6 +50,28 @@
                         @Html.EditorFor(model => model.Nascimento, new { htmlAttributes = new { @class = "form-control" } })
                         @Html.ValidationMessageFor(model => model.Nascimento, "", new { @class = "text-danger" })
                     </div>
+=======
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Telefone, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Telefone, new { htmlAttributes = new { @class = "form-control", placeholder = "(00) 00000-0000", data_tipo = "telefone" } })
+                    @Html.ValidationMessageFor(model => model.Telefone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.CPF, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CPF, new { htmlAttributes = new { @class = "form-control", placeholder = "000.000.000-00", data_tipo = "cpf" } })
+                    @Html.ValidationMessageFor(model => model.CPF, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group space">
+                @Html.LabelFor(model => model.Nascimento, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Nascimento, new { htmlAttributes = new { @class = "form-control", placeholder = "00/00/0000", data_tipo = "data" } })
+                    @Html.ValidationMessageFor(model => model.Nascimento, "", new { @class = "text-danger" })
+>>>>>>> a51d965b4e04f29d75300c6cac7ec05d368303b3
                 </div>
                 <div class="form-group space">
                     <div class="btn-space">
@@ -56,11 +80,31 @@
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
         }
         @section Scripts {
             @Scripts.Render("~/bundles/jqueryval")
         }
     </div>
 </div>
+=======
+        </div>
+    }
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/inputmask")
 
+        <script>
+            $(function () {
+                $("input[data-tipo='cpf']").mask("999.999.999-99");
+                $("input[data-tipo='data']").mask("99/99/9999");
+                $("input[data-tipo='telefone']").mask("(99) 99999-9999", { reverse: true });
+            });
+        </script>
+    }
+>>>>>>> a51d965b4e04f29d75300c6cac7ec05d368303b3
+
+
+</div>
 
