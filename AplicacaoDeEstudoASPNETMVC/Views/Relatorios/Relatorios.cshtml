@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewBag.Title = "Relatorios";
+}
+<div class="container body-content">
+    <div class="row">
+        <script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+        <script src="http://code.jquery.com/ui/1.9.0/jquery-ui.js"></script>
+
+        <h2 class="space fonts">@ViewBag.Title</h2>
+
+        <form class="fonts" action="">
+            <div class="space">
+                <label for="re">Relatorio :</label>
+                <select name="re" id="re">
+                    <option value="venda">venda</option>
+                    <option value="caixa">fechamento de caixa</option>
+                    <option value="estoque">estoque</option>
+                </select>
+            </div>
+            <div class="date fonts">
+                <div class="date-space">
+                    <p>Data inicial:<input class="space-date" type="date" /></p>
+                </div>
+                <div class="date-space">
+                    <p>Data final:<input class="space-date" type="date" /></p>
+                </div>
+            </div>
+            <div class="space fonts">
+                <input class="btn" type="submit" value="Gerar relatorio">
+            </div>
+
+        </form>
+
+
+
+        <script>
+            $(function () {
+                $("#calendario").datepicker();
+            });
+
+            $(function () {
+                $("#calendario2").datepicker();
+            });
+
+            jQuery(function ($) {
+                $.datepicker.regional['pt-BR'] = {
+                    closeText: 'Fechar',
+                    prevText: '&#x3c;Anterior',
+                    nextText: 'Pr&oacute;ximo&#x3e;',
+                    currentText: 'Hoje',
+                    monthNames: ['Janeiro', 'Fevereiro', 'Mar&ccedil;o', 'Abril', 'Maio', 'Junho',
+                        'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'],
+                    monthNamesShort: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun',
+                        'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'],
+                    dayNames: ['Domingo', 'Segunda-feira', 'Ter&ccedil;a-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sabado'],
+                    dayNamesShort: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sab'],
+                    dayNamesMin: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sab'],
+                    weekHeader: 'Sm',
+                    dateFormat: 'dd/mm/yy',
+                    firstDay: 0,
+                    isRTL: false,
+                    showMonthAfterYear: false,
+                    yearSuffix: ''
+                };
+                $.datepicker.setDefaults($.datepicker.regional['pt-BR']);
+            });
+        </script>
+
+        <hr />
+    </div>
+</div>
