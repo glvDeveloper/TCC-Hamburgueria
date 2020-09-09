@@ -4,50 +4,39 @@
 }
 
 <div class="container body-content">
-    <h2>Criação</h2>
+    <div class="row">
+        <h2>Criação</h2>
 
-    @using (Html.BeginForm())
-    {
-        @Html.AntiForgeryToken()
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
 
-        <div class="form-horizontal">
-            <h4>Aluno</h4>
-            <hr />
-            @*@Html.ValidationSummary(false, "", new { @class = "text-danger" })   @*Serve para mostrar o alerta de campo obrigatorio acima de todo o formulário*@
-            <div class="form-group">
-                @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
-                <div class="col-md-10">
-                    @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control" , autocomplete ="off"  } })
-                    @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })   @*Serve para mostrar o alerta de campo obrigatório abaixo de cada label*@
+            <div class="form-horizontal">
+                <h4>Aluno</h4>
+                <hr />
+                @*@Html.ValidationSummary(false, "", new { @class = "text-danger" })   @*Serve para mostrar o alerta de campo obrigatorio acima de todo o formulário*@
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control", autocomplete = "off" } })
+                        @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })   @*Serve para mostrar o alerta de campo obrigatório abaixo de cada label*@
+                    </div>
                 </div>
-            </div>
-            <div class="form-group">
-                @Html.LabelFor(model => model.Endereco, htmlAttributes: new { @class = "control-label col-md-2" })
-                <div class="col-md-10">
-                    @Html.EditorFor(model => model.Endereco, new { htmlAttributes = new { @class = "form-control", autocomplete = "off" } })
-                    @Html.ValidationMessageFor(model => model.Endereco, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Endereco, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Endereco, new { htmlAttributes = new { @class = "form-control", autocomplete = "off" } })
+                        @Html.ValidationMessageFor(model => model.Endereco, "", new { @class = "text-danger" })
+                    </div>
                 </div>
-            </div>
-            <div class="form-group">
-                @Html.LabelFor(model => model.Telefone, htmlAttributes: new { @class = "control-label col-md-2" })
-                <div class="col-md-10">
-                    @Html.EditorFor(model => model.Telefone, new { htmlAttributes = new { @class = "form-control", placeholder = "(00) 00000-0000", data_tipo = "telefone", autocomplete = "off" } })
-                    @Html.ValidationMessageFor(model => model.Telefone, "", new { @class = "text-danger" })
+                <div class="form-group space ">
+                    @Html.LabelFor(model => model.Telefone, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Telefone, new { htmlAttributes = new { @class = "form-control", placeholder = "(00) 00000-0000", data_tipo = "telefone", autocomplete = "off" } })
+                        @Html.ValidationMessageFor(model => model.Telefone, "", new { @class = "text-danger" })
+                    </div>
                 </div>
-            </div>
-            <div class="form-group">
-                @Html.LabelFor(model => model.CPF, htmlAttributes: new { @class = "control-label col-md-2" })
-                <div class="col-md-10">
-                    @Html.EditorFor(model => model.CPF, new { htmlAttributes = new { @class = "form-control", placeholder = "000.000.000-00", data_tipo = "cpf", autocomplete = "off" } })
-                    @Html.ValidationMessageFor(model => model.CPF, "", new { @class = "text-danger" })
-                </div>
-            </div>
-            <div class="form-group space">
-                @Html.LabelFor(model => model.Nascimento, htmlAttributes: new { @class = "control-label col-md-2" })
-                <div class="col-md-10">
-                    @Html.EditorFor(model => model.Nascimento, new { htmlAttributes = new { @class = "form-control", placeholder = "00/00/0000", data_tipo = "data", autocomplete = "off" } })
-                    @Html.ValidationMessageFor(model => model.Nascimento, "", new { @class = "text-danger" })
-                </div>
+                <hr />
             </div>
             <div class="form-group space">
                 <div class="btn-space">
@@ -55,22 +44,22 @@
                     <a class="btn btn-add" href="/Clientes">Voltar a página inicial</a>
                 </div>
             </div>
-        </div>
-    }
-    @section Scripts {
-        @Scripts.Render("~/bundles/jqueryval")
-        @Scripts.Render("~/bundles/jquery")
-        @Scripts.Render("~/bundles/inputmask")
 
-        <script>
-            $(function () {
-                $("input[data-tipo='cpf']").mask("999.999.999-99");
-                $("input[data-tipo='data']").mask("99/99/9999");
-                $("input[data-tipo='telefone']").mask("(99) 99999-9999", { reverse: true });
-            });
-        </script>
-    }
+        }
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+            @Scripts.Render("~/bundles/jquery")
+            @Scripts.Render("~/bundles/inputmask")
 
+            <script>
+                $(function () {
+                    $("input[data-tipo='cpf']").mask("999.999.999-99");
+                    $("input[data-tipo='data']").mask("99/99/9999");
+                    $("input[data-tipo='telefone']").mask("(99) 99999-9999", { reverse: true });
+                });
+            </script>
+        }
 
+    </div>
 </div>
 

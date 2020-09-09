@@ -7,7 +7,7 @@
         {
             <input type="text" placeholder="Buscar um Cliente"  autocomplete ="off"  name="busca" class="form-control" />
             <input type="submit" class="btn" value="Buscar" />
-            <a class="edits btn-add" href="@Url.Action("Create", "Clientes")">
+            <a class="edits btn-add" href="@Url.Action("Create", "Clientes")" alt="Adicionar cliente">
                 <img class="" src="~/img/add.png" alt="Adicionar">
             </a>
         }
@@ -23,12 +23,7 @@
                 <th>
                     @Html.DisplayNameFor(model => model.Telefone)
                 </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.CPF)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Nascimento)
-                </th>
+                
 
                 <th></th>
             </tr>
@@ -45,12 +40,7 @@
                     <td>
                         @Html.DisplayFor(modelItem => item.Telefone)
                     </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.CPF)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Nascimento)
-                    </td>
+                   
                     <td>
                         <a class="edits" href="@Url.Action("Edit", "Clientes", new { id = item.IdCliente })" |>
                             <img class="" src="~/img/file.png" alt="editar">
