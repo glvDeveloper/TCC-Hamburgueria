@@ -5,7 +5,7 @@
         <h2>Clientes</h2>
         @using (Html.BeginForm("index", "Clientes", FormMethod.Get, new { @class = "form-inline space" }))
         {
-            <input type="text" placeholder="Buscar um Cliente" name="busca" class="form-control" />
+            <input type="text" placeholder="Buscar um Cliente"  autocomplete ="off"  name="busca" class="form-control" />
             <input type="submit" class="btn" value="Buscar" />
             <a class="edits btn-add" href="@Url.Action("Create", "Clientes")">
                 <img class="" src="~/img/add.png" alt="Adicionar">
