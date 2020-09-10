@@ -77,6 +77,10 @@ textarea {
     margin-top: 2px;
     text-decoration: unset !important;
 }
+.edits-center{
+    text-align:center;
+    
+}
 
 .btn-add {
     margin-left: 15px
@@ -97,7 +101,7 @@ textarea {
 
 .date-space {
     margin-right: 25px;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 .space-date {

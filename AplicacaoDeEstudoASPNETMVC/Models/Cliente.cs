@@ -24,13 +24,6 @@ namespace AplicacaoDeEstudoASPNETMVC.Models
         [DisplayFormat(DataFormatString = "{0:(##) #####-####}", ApplyFormatInEditMode = true)]
         public string Telefone { get; set; }
 
-        [Display(Name = "CPF")]
-        [DisplayFormat(DataFormatString = "{0:###-###-####}", ApplyFormatInEditMode = true)]
-        public string CPF { get; set; }
-
-        [Display(Name = "Data de Nascimento")]
-        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
-        public DateTime Nascimento { get; set; }
 
         [Required]
         public bool Entrega { get; set; }

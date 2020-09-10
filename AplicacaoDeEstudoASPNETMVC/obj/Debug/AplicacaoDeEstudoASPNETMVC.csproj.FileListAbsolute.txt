@@ -368,7 +368,6 @@ C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.
 C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.AI.Web.xml
 C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csprojAssemblyReference.cache
 C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CoreCompileInputs.cache
 C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.csproj.CopyComplete
 C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\obj\Debug\AplicacaoDeEstudoASPNETMVC.dll
