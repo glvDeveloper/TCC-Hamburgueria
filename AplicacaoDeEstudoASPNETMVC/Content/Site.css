@@ -114,6 +114,12 @@ textarea {
     color: black;
 }
 
+.fonts-semi {
+    font-family: OpenSans-Semi;
+    color: black;
+    font-size:17px;
+}
+
 .img-home {
     width: 100%;
     box-shadow: -3px 4px 2px 1px rgb(250,177,2);
