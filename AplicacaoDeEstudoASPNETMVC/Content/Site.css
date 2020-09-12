@@ -77,6 +77,10 @@ textarea {
     margin-top: 2px;
     text-decoration: unset !important;
 }
+.edits-center{
+    text-align:center;
+    
+}
 
 .btn-add {
     margin-left: 15px
@@ -87,6 +91,7 @@ textarea {
 }
 
 .btn-space {
+
     display: flex;
     margin-left: 150px;
 }
@@ -97,7 +102,7 @@ textarea {
 
 .date-space {
     margin-right: 25px;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 .space-date {
@@ -107,6 +112,12 @@ textarea {
 .fonts {
     font-family: OpenSans;
     color: black;
+}
+
+.fonts-semi {
+    font-family: OpenSans-Semi;
+    color: black;
+    font-size:17px;
 }
 
 .img-home {

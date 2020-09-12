@@ -2009,7 +2009,7 @@ pre {
 
 @media (min-width: 1200px) {
     .container {
-        width: 1170px;
+        width: 1300px;
     }
 }
 
@@ -2021,8 +2021,6 @@ pre {
 }
 
 .row {
-    margin-right: -15px;
-    margin-left: -15px;
     padding-top: 45px;
 }
 

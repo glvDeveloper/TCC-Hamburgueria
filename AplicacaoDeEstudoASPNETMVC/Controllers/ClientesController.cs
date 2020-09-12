@@ -19,7 +19,7 @@ namespace AplicacaoDeEstudoASPNETMVC.Controllers
         {
             if (busca != null && busca != "")
             {
-                return View(db.Clientes.Where(a => a.Nome.ToUpper().Contains(busca.ToUpper())).ToList());
+                return View(db.Clientes.Where(a => a.Telefone.ToUpper().Contains(busca.ToUpper())).ToList());
             }
 
 
@@ -52,7 +52,7 @@ namespace AplicacaoDeEstudoASPNETMVC.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "IdCliente,Nome,Endereco,Telefone,CPF,Nascimento,Entrega")] Cliente cliente)
+        public ActionResult Create([Bind(Include = "IdCliente,Nome,Endereco,Telefone,Entrega")] Cliente cliente)
         {
             //ModelState.IsValid apenas verifica se o modelo que você está utilizando passou nas Anotações
             //de dados que você adicionou às propriedades. Por exemplo, você pode adicionar a anotação [Obrigatório] a uma de nossas propriedades de modelo.
@@ -88,7 +88,7 @@ namespace AplicacaoDeEstudoASPNETMVC.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "IdCliente,Nome,Endereco,Telefone,CPF,Nascimento,Entrega")] Cliente cliente)
+        public ActionResult Edit([Bind(Include = "IdCliente,Nome,Endereco,Telefone,Entrega")] Cliente cliente)
         {
             if (ModelState.IsValid)
             {

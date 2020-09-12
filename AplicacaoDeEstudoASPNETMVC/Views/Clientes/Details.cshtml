@@ -4,61 +4,47 @@
     ViewBag.Title = "Detalhes";
 }
 <div class="container body-content">
-    <h2>Detalhes</h2>
+    <div class="row">
+        <h2 class="space">Detalhes</h2>
 
-    <div>
-        <h4>Cliente</h4>
-        <hr />
-        <dl class="dl-horizontal">
-            <dt>
-                @Html.DisplayNameFor(model => model.Nome)
-            </dt>
+        <div>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Nome)
+                </dt>
 
-            <dd>
-                @Html.DisplayFor(model => model.Nome)
-            </dd>
+                <dd>
+                    @Html.DisplayFor(model => model.Nome)
+                </dd>
 
-            <dt>
-                @Html.DisplayNameFor(model => model.Endereco)
-            </dt>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Endereco)
+                </dt>
 
-            <dd>
-                @Html.DisplayFor(model => model.Endereco)
-            </dd>
+                <dd>
+                    @Html.DisplayFor(model => model.Endereco)
+                </dd>
 
-            <dt>
-                @Html.DisplayNameFor(model => model.Telefone)
-            </dt>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Telefone)
+                </dt>
 
-            <dd>
-                @Html.DisplayFor(model => model.Telefone)
-            </dd>
+                <dd class="space">
+                    @Html.DisplayFor(model => model.Telefone)
+                </dd>
+                <hr />
 
-            <dt>
-                @Html.DisplayNameFor(model => model.CPF)
-            </dt>
 
-            <dd>
-                @Html.DisplayFor(model => model.CPF)
-            </dd>
-
-            <dt>
-                @Html.DisplayNameFor(model => model.Nascimento)
-            </dt>
-
-            <dd class="space">
-                @Html.DisplayFor(model => model.Nascimento)
-            </dd>
-
-        </dl>
-        <div class="form-group">
-            <div class="btn-space">
-                <a class="btn btn-add" href="@Url.Action("Edit", "Clientes", new { id = Model.IdCliente })">Editar</a>
-                <div>
-                    <a class="btn btn-add" href="/Clientes">Voltar a página inicial</a>
+            </dl>
+            <div class="form-group">
+                <div class="btn-space">
+                    <a class="btn btn-add" href="@Url.Action("Edit", "Clientes", new { id = Model.IdCliente })">Editar</a>
+                    <div>
+                        <a class="btn btn-add" href="/Clientes">Voltar a página inicial</a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-    <hr />
 </div>
