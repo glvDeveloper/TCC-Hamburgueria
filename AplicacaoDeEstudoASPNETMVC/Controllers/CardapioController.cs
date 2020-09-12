@@ -9,7 +9,7 @@ namespace AplicacaoDeEstudoASPNETMVC.Controllers
     public class CardapioController : Controller
     {
         // GET: Default
-        public ActionResult ItensCardapio()
+        public ActionResult Index()
         {
             return View();
         }
