@@ -23,7 +23,5 @@ namespace AplicacaoDeEstudoASPNETMVC.Models
         [Required]
         [DisplayFormat(DataFormatString = "{0:(##) #####-####}", ApplyFormatInEditMode = true)]
         public string Telefone { get; set; }
-
-
     }
 }

@@ -1,11 +1,20 @@
 ﻿@model IEnumerable<AplicacaoDeEstudoASPNETMVC.Models.Cliente>
 
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("@ViewBag.Message");
+        };
+    </script>
+}
+
 <div class="container body-content">
     <div class="row">
         <h2>Clientes</h2>
         @using (Html.BeginForm("index", "Clientes", FormMethod.Get, new { @class = "form-inline space" }))
         {
-            <input type="text" placeholder="Buscar um Cliente"  autocomplete ="off"  name="busca" class="form-control" />
+            <input type="text" placeholder="(00) 00000-0000" autocomplete="off" id="campoTelefone" name="busca" class="form-control" />
             <input type="submit" class="btn" value="Buscar" />
             <a class="edits btn-add" href="@Url.Action("Create", "Clientes")" alt="Adicionar cliente">
                 <img class="" src="~/img/add.png" alt="Adicionar">
@@ -23,7 +32,7 @@
                 <th>
                     @Html.DisplayNameFor(model => model.Telefone)
                 </th>
-                
+
 
                 <th></th>
             </tr>
@@ -40,7 +49,7 @@
                     <td>
                         @Html.DisplayFor(modelItem => item.Telefone)
                     </td>
-                   
+
                     <td class="edits-center">
                         <a class="edits" href="@Url.Action("Edit", "Clientes", new { id = item.IdCliente })" |>
                             <img class="" src="~/img/file.png" alt="editar">
@@ -59,4 +68,15 @@
         </table>
         <hr />
     </div>
+    @section Scripts {
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/inputmask")
+
+        <script>
+            jQuery(function ($) {
+                $("#campoTelefone").mask("(99) 99999-9999");
+            });
+        </script>
+    }
 </div>
+
