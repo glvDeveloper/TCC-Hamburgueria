@@ -19,9 +19,18 @@ namespace AplicacaoDeEstudoASPNETMVC.Controllers
         {
             if (busca != null && busca != "")
             {
-                return View(db.Clientes.Where(a => a.Telefone.ToUpper().Contains(busca.ToUpper())).ToList());
-            }
+                var listaRegistrosEncontrados = db.Clientes.Where(a => a.Telefone.ToUpper().Contains(busca.ToUpper())).ToList();
 
+                if (listaRegistrosEncontrados.Count > 0)
+                {
+                    return View(listaRegistrosEncontrados);
+                }
+
+                //else
+                //{
+                //    ViewBag.Message = "Cliente inexistente";
+                //}
+            }
 
             return View(db.Clientes.ToList());
         }
