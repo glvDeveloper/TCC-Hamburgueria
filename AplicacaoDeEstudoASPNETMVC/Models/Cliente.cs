@@ -25,8 +25,5 @@ namespace AplicacaoDeEstudoASPNETMVC.Models
         public string Telefone { get; set; }
 
 
-        [Required]
-        public bool Entrega { get; set; }
-
     }
 }
