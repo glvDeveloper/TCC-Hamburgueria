@@ -126,10 +126,10 @@ textarea {
 }
 
 .fonts-home {
-    color: #FAB102;
-    font-size: 22px;
+    color: #FAB102 !important;
     font-family: OpenSans-Semi;
     text-transform: uppercase;
+    text-decoration: none !important;
 }
 
 .body-home {
