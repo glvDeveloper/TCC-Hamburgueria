@@ -452,3 +452,7 @@ C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria\AplicacaoDeEstudoASPNET
 C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\PagedList.Mvc.dll
 C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\PagedList.xml
 C:\Users\Gustavo\Documents\TCC - Etapas\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\PagedList.Mvc.xml
+C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\PagedList.dll
+C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\PagedList.Mvc.dll
+C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\PagedList.xml
+C:\Users\Rato\Desktop\TCC-Hamburgueria\AplicacaoDeEstudoASPNETMVC\bin\PagedList.Mvc.xml
