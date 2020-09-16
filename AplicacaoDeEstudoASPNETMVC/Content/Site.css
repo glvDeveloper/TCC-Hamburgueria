@@ -132,6 +132,21 @@ textarea {
     text-decoration: none !important;
 }
 
+
+.fonts-obs {
+    font-size: 15px;
+    color: #FAB102;
+    font-family: OpenSans;
+    padding-top: 15px;
+    height:60px;
+}
+.fonts-preco {
+    font-size: 18px;
+    color: #FAB102;
+    font-family: OpenSans-semi;
+    padding-top: 15px;
+}
+
 .body-home {
     padding-right: 30px;
     padding-left: 30px;
@@ -177,6 +192,7 @@ textarea {
     border: 0;
     border-top: 1px solid #424242;
 }
+
 
 
 
