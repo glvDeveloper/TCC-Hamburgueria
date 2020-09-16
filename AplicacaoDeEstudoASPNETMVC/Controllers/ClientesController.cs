@@ -7,6 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using AplicacaoDeEstudoASPNETMVC.Models;
+using PagedList;
 
 namespace AplicacaoDeEstudoASPNETMVC.Controllers
 {
@@ -15,11 +16,11 @@ namespace AplicacaoDeEstudoASPNETMVC.Controllers
         private ClienteContext db = new ClienteContext();
 
         // GET: Clientes
-        public ActionResult Index(string busca = null)
+        public ActionResult Index(int page = 1, string busca = null)
         {
             if (busca != null && busca != "")
             {
-                var listaRegistrosEncontrados = db.Clientes.Where(a => a.Telefone.ToUpper().Contains(busca.ToUpper())).ToList();
+                var listaRegistrosEncontrados = db.Clientes.Where(a => a.Telefone == busca).OrderBy(a => a.Nome).ToPagedList(page, 5);
 
                 if (listaRegistrosEncontrados.Count > 0)
                 {
@@ -32,7 +33,7 @@ namespace AplicacaoDeEstudoASPNETMVC.Controllers
                 //}
             }
 
-            return View(db.Clientes.ToList());
+            return View(db.Clientes.OrderBy(a => a.Nome).ToPagedList(page, 5));
         }
 
         // GET: Clientes/Details/5

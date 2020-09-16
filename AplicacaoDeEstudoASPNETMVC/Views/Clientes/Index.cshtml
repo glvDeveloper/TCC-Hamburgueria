@@ -1,4 +1,5 @@
-﻿@model IEnumerable<AplicacaoDeEstudoASPNETMVC.Models.Cliente>
+﻿@using PagedList.Mvc;
+@model PagedList.PagedList<AplicacaoDeEstudoASPNETMVC.Models.Cliente>
 
 @if (ViewBag.Message != null)
 {
@@ -24,16 +25,14 @@
         <table class="table">
             <tr>
                 <th>
-                    @Html.DisplayNameFor(model => model.Nome)
+                    @Html.DisplayName("Nome")
                 </th>
                 <th>
-                    @Html.DisplayNameFor(model => model.Endereco)
+                    @Html.DisplayName("Endereço")
                 </th>
                 <th>
-                    @Html.DisplayNameFor(model => model.Telefone)
+                    @Html.DisplayName("Telefone")
                 </th>
-
-
                 <th></th>
             </tr>
 
@@ -62,11 +61,19 @@
                         </a>
                     </td>
                 </tr>
-
             }
-
         </table>
         <hr />
+        <div class="row">
+            <div class="col-md-8">
+                @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+            </div>
+            <div class="col-md-4">
+                <span class="pull-right">
+                    Lista de @Model.FirstItemOnPage a @Model.LastItemOnPage de um total de @Model.TotalItemCount registros
+                </span>
+            </div>
+        </div>
     </div>
     @section Scripts {
         @Scripts.Render("~/bundles/jquery")
