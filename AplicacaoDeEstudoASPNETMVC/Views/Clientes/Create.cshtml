@@ -5,14 +5,14 @@
 
 <div class="container body-content">
     <div class="row">
-        <h2 class="space">Criação</h2>
+        <h2 class="space">Cadastro</h2>
 
         @using (Html.BeginForm())
         {
             @Html.AntiForgeryToken()
 
             <div class="form-horizontal">
-                <h4>Aluno</h4>
+                <h4>Cliente</h4>
                 <hr />
                 @*@Html.ValidationSummary(false, "", new { @class = "text-danger" })   @*Serve para mostrar o alerta de campo obrigatorio acima de todo o formulário*@
                 <div class="form-group">
