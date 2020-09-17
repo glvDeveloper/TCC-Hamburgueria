@@ -10,80 +10,86 @@
     </script>
 }
 
-<div class="container body-content">
-    <div class="row">
-        <h2>Clientes</h2>
-        @using (Html.BeginForm("index", "Clientes", FormMethod.Get, new { @class = "form-inline space" }))
-        {
-            <input type="text" placeholder="(00) 00000-0000" autocomplete="off" id="campoTelefone" name="busca" class="form-control" />
-            <input type="submit" class="btn" value="Buscar" />
-            <a class="edits btn-add" href="@Url.Action("Create", "Clientes")" alt="Adicionar cliente">
-                <img class="" src="~/img/add.png" alt="Adicionar">
-            </a>
-        }
-
-        <table class="table">
-            <tr>
-                <th>
-                    @Html.DisplayName("Nome")
-                </th>
-                <th>
-                    @Html.DisplayName("Endereço")
-                </th>
-                <th>
-                    @Html.DisplayName("Telefone")
-                </th>
-                <th></th>
-            </tr>
-
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Nome)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Endereco)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Telefone)
-                    </td>
-
-                    <td class="edits-center">
-                        <a class="edits" href="@Url.Action("Edit", "Clientes", new { id = item.IdCliente })" |>
-                            <img class="" src="~/img/file.png" alt="editar">
-                        </a>
-                        <a class="edits" href="@Url.Action("Details", "Clientes", new { id = item.IdCliente })" |>
-                            <img class="" src="~/img/view.png" alt="vizualizar ">
-                        </a>
-                        <a class="edits" href="@Url.Action("Delete", "Clientes", new { id = item.IdCliente })">
-                            <img class="" src="~/img/trash.png" alt="excluir">
-                        </a>
-                    </td>
-                </tr>
-            }
-        </table>
-        <hr />
+    <div class="container body-content">
         <div class="row">
-            <div class="col-md-8">
-                @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
-            </div>
-            <div class="col-md-4">
-                <span class="pull-right">
-                    Lista de @Model.FirstItemOnPage a @Model.LastItemOnPage de um total de @Model.TotalItemCount registros
-                </span>
+            <h2>Clientes</h2>
+            @using (Html.BeginForm("index", "Clientes", FormMethod.Get, new { @class = "form-inline space" }))
+            {
+                <input type="text" placeholder="(00) 00000-0000" autocomplete="off" id="campoTelefone" name="busca" class="form-control" />
+                <input type="submit" class="btn" value="Buscar" />
+                <a class="edits btn-add" data-toggle="tooltip" data-placement="top" title="Cadastrar cliente"  href="@Url.Action("Create", "Clientes")" alt="Adicionar cliente">
+                    <img class=""  src="~/img/add.png" alt="Adicionar">
+                </a>
+               
+            }
+
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayName("Nome")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Endereço")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Telefone")
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nome)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Endereco)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Telefone)
+                        </td>
+
+                        <td class="edits-center">
+                            <a class="edits" data-toggle="tooltip" data-placement="top" title="Editar"  href="@Url.Action("Edit", "Clientes", new { id = item.IdCliente })" |>
+                                <img class="" src="~/img/file.png" alt="editar">
+                            </a>
+                            <a class="edits" data-toggle="tooltip" data-placement="top" title="Detalhes"  href="@Url.Action("Details", "Clientes", new { id = item.IdCliente })" |>
+                                <img class="" src="~/img/view.png" alt="vizualizar ">
+                            </a>
+                            <a class="edits" data-toggle="tooltip" data-placement="top" title="Deletar"  href="@Url.Action("Delete", "Clientes", new { id = item.IdCliente })">
+                                <img class="" src="~/img/trash.png" alt="excluir">
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </table>
+            <hr />
+            <div class="row">
+                <div class="col-md-8">
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+                </div>
+                <div class="col-md-4">
+                    <span class="pull-right">
+                        Lista de @Model.FirstItemOnPage a @Model.LastItemOnPage de um total de @Model.TotalItemCount registros
+                    </span>
+                </div>
             </div>
         </div>
-    </div>
-    @section Scripts {
-        @Scripts.Render("~/bundles/jquery")
-        @Scripts.Render("~/bundles/inputmask")
+        @section Scripts {
+            @Scripts.Render("~/bundles/jquery")
+            @Scripts.Render("~/bundles/inputmask")
+            @Scripts.Render("~/Scripts/bootstrap.js")
+            <script>
+                jQuery(function ($) {
+                    $("#campoTelefone").mask("(99) 99999-9999");
+                });
 
-        <script>
-            jQuery(function ($) {
-                $("#campoTelefone").mask("(99) 99999-9999");
-            });
-        </script>
-    }
-</div>
+                $(document).ready(function () {
+                    $('[data-toggle="tooltip"]').tooltip();
+                });
+            </script>
+            
+        }
+    </div>
 
